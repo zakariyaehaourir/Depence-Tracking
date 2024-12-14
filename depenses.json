@@ -1,0 +1,32 @@
+[
+   {
+      "date": "2024-08-06",
+      "description": "Dejeuner",
+      "id": 1,
+      "montant": 20.0
+   },
+   {
+      "date": "2024-08-06",
+      "description": "Diner",
+      "id": 2,
+      "montant": 10.0
+   },
+   {
+      "date": "2024-12-14",
+      "description": "new depence",
+      "id": 3,
+      "montant": 99.69999694824219
+   },
+   {
+      "date": "2024-12-14",
+      "description": "challalllalala",
+      "id": 4,
+      "montant": 1578.0
+   },
+   {
+      "date": "2024-12-14",
+      "description": "ghdi nmchi ",
+      "id": 5,
+      "montant": 784.0
+   }
+]
